@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![Banner](https://github.com/MadukaSewwandi/MadukaSewwandi/blob/main/github cover.png)
+https://github.com/MadukaSewwandi/MadukaSewwandi/blob/main/github%20cover.png
 
 <p align="center">
   🎓 Undergraduate ICT Student at the <b>University of Colombo</b><br>
