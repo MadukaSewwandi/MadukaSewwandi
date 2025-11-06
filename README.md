@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2196F3&height=200&section=header&text=👋%20Hi,%20I'm%20Maduka%20Sewwandi!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2196F3&height=200&section=header&text=%20Hi,%20I'm%20Maduka%20Sewwandi!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
   🎓 Undergraduate ICT Student at the <b>University of Colombo</b><br>
