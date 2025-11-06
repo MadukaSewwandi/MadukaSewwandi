@@ -7,8 +7,6 @@
 
 <div align="center">
 
-### 🎓 About Me  
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Logo" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo" style="margin-right:10px;"/>
