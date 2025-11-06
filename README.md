@@ -96,28 +96,15 @@ I'm an undergraduate at the University of Colombo with a strong interest in buil
 
 ### 📫 Connect With Me  
 
-<p align="center">
-  <a href="mailto:madukasewwandi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madukasewwandi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MadukaSewwandi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <a href="https://github.com/MadukaSewwandi">
     <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub Icon" width="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/madukasewwandi/" target="_blank">
+  <a href="https://www.linkedin.com/in/maduka-sewwandi/" target="_blank">
     <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn Icon" width="50"/>
   </a>
-  <a href="mailto:madukasewwandi@gmail.com" target="_blank">
+  <a href="mailto:dmadukasewwandi@gmail.com" target="_blank">
     <img src="https://img.icons8.com/nolan/64/gmail-new.png" alt="Gmail Icon" width="50"/>
   </a>
 </p>
