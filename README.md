@@ -94,15 +94,34 @@ I'm an undergraduate at the University of Colombo with a strong interest in buil
 
 
 
-### 📫 Connect With Me
+### 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:madukasewwandi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/madukasewwandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MadukaSewwandi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:madukasewwandi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madukasewwandi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MadukaSewwandi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/MadukaSewwandi">
+    <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub Icon" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madukasewwandi/" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn Icon" width="50"/>
+  </a>
+  <a href="mailto:madukasewwandi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/gmail-new.png" alt="Gmail Icon" width="50"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=100&section=footer"/>
