@@ -5,11 +5,27 @@
 
 
 
+<div align="center">
+
+### 🎓 About Me  
+
 <p align="center">
-  🎓 Undergraduate ICT Student at the <b>University of Colombo</b><br>
-  💻 Passionate about Software Development, Web Technologies, and QA Testing<br>
-  📍 Based in Matara, Sri Lanka
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo" style="margin-right:10px;"/>
 </p>
+
+<h3>
+🎓 Undergraduate ICT Student at the <a href="https://cmb.ac.lk/" target="_blank">University of Colombo</a>  
+💻 Passionate about Software Development, Web Technologies, and QA Testing  
+📍 Based in <b>Matara, Sri Lanka</b>
+</h3>
+
+<!-- Simple animated line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF6&center=true&vCenter=true&width=435&lines=Building+ideas+into+real+projects+✨;Learning+and+evolving+every+day+💫;Exploring+tech+with+curiosity+💻" alt="Typing SVG" />
+
+</div>
 
 ---
 ### 🚀 About Me
