@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/MadukaSewwandi/MadukaSewwandi/blob/main/github%20cover.png" alt="Maduka Sewwandi GitHub Cover" width="100%">
+  <img src="https://github.com/MadukaSewwandi/MadukaSewwandi/blob/main/github-cover-new.png" width="100%">
 </p>
+
 
 
 <p align="center">
