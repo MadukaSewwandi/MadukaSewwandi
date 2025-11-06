@@ -62,20 +62,6 @@ I'm an undergraduate at the University of Colombo with a strong interest in buil
 </p>
 
 ---
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [📰 FOT-Connect-News-App](https://github.com/MadukaSewwandi/FOT-Connect-News-app) | News app for the Faculty of Technology | Java |
-| [🧮 React Calculator](https://github.com/MadukaSewwandi/React-Calculator) | Simple calculator built using React | React, CSS |
-| [🌐 ManugaK Web App Project](https://github.com/MadukaSewwandi/Web-App-Project) | Final group project for assignment | PHP, HTML, CSS |
-| [🔐 Caesar Cipher IC 2306](https://github.com/MadukaSewwandi/CaesarCipher-IC_2306) | Implementation of Caesar Cipher using circular queue | C |
-| [✅ To-Do-App](https://github.com/MadukaSewwandi/To-Do-App) | A simple and responsive to-do app | Python |
-| [🐞 Bug-Tracker-App](https://github.com/MadukaSewwandi/Bug-Tracker-App) | Web-based bug tracking system | JavaScript |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -92,6 +78,21 @@ I'm an undergraduate at the University of Colombo with a strong interest in buil
 </p>
 
 ---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [📰 FOT-Connect-News-App](https://github.com/MadukaSewwandi/FOT-Connect-News-app) | News app for the Faculty of Technology | Java |
+| [🧮 React Calculator](https://github.com/MadukaSewwandi/React-Calculator) | Simple calculator built using React | React, CSS |
+| [🌐 ManugaK Web App Project](https://github.com/MadukaSewwandi/Web-App-Project) | Final group project for assignment | PHP, HTML, CSS |
+| [🔐 Caesar Cipher IC 2306](https://github.com/MadukaSewwandi/CaesarCipher-IC_2306) | Implementation of Caesar Cipher using circular queue | C |
+| [✅ To-Do-App](https://github.com/MadukaSewwandi/To-Do-App) | A simple and responsive to-do app | Python |
+| [🐞 Bug-Tracker-App](https://github.com/MadukaSewwandi/Bug-Tracker-App) | Web-based bug tracking system | JavaScript |
+
+---
+
+
 
 ### 📫 Connect With Me
 
