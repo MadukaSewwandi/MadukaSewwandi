@@ -12,13 +12,10 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **React**, **Postman API Testing**, and **Automation Testing (Selenium)**  
-- 🧠 I enjoy exploring **new technologies** and working on **practical web-based projects**  
-- 🤝 I’m open to **internships**, **collaborations**, and **open-source contributions**  
-- 💬 Ask me about **web apps, QA testing, and UI design**
+I'm an undergraduate at the University of Colombo with a strong interest in building creative and practical digital solutions. I enjoy learning new technologies, experimenting with projects, and continuously improving my technical and problem-solving skills. I'm passionate about exploring how technology can make everyday tasks simpler and more efficient, and I’m always eager to collaborate and learn from others in the tech community.
+
 
 ---
 
