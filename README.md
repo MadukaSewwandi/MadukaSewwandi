@@ -31,40 +31,20 @@ I'm an undergraduate at the University of Colombo with a strong interest in buil
 
 #### 💻 Programming Languages  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
 </p>
 
 #### 🎨 Frontend & Design  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,figma" />
 </p>
 
 #### 🧰 Tools & Technologies  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" style="margin:10px; animation: glow 2s ease-in-out infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,mysql,vscode" />
 </p>
 
 </div>
-
-<!-- glowing effect -->
-<style>
-@keyframes glow {
-  from { filter: drop-shadow(0 0 5px #00fff6) drop-shadow(0 0 10px #00fff6); }
-  to { filter: drop-shadow(0 0 20px #00fff6) drop-shadow(0 0 40px #00fff6); }
-}
-</style>
 
 ---
 ### 📊 GitHub Stats
