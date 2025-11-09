@@ -7,11 +7,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects+✨;Learning+and+evolving+every+day+💫;Exploring+tech+with+curiosity+💻" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/assets/astro.gif" width="80" alt="orbit animation"/>
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/geek.gif" width="80" alt="geek animation"/>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80" alt="Developer animation"/>
-</p>
+<!-- Animated gradient bar -->
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="400" alt="animated divider"/>
 
 <h3>
 🎓 Undergraduate ICT Student at the <a href="https://cmb.ac.lk/" target="_blank">University of Colombo</a>  
