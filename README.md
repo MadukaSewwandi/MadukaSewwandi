@@ -5,30 +5,10 @@
   Hi, I'm <span style="color:#00FFF6;">Maduka Sewwandi</span> 👋
 </h1>
 
-<!-- Animated tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects+✨;Learning+and+evolving+every+day+💫;Exploring+tech+with+curiosity+💻" alt="Typing SVG" />
-
-<br><br>
-
-<!-- Profile Header -->
-<div align="center">
-
-<h1 style="font-size: 40px; font-weight: bold;">
-  Hi, I'm <span style="color:#00FFF6;">Maduka Sewwandi</span> 👋
-</h1>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects+✨;Learning+and+evolving+every+day+💫;Exploring+tech+with+curiosity+💻" alt="Typing SVG" />
 
 <!-- Smooth animated wave divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px"/>
-
-<h3>
-🎓 Undergraduate ICT Student at the <a href="https://cmb.ac.lk/" target="_blank">University of Colombo</a>  
-📍 Based in <b>Matara, Sri Lanka</b>
-</h3>
-
-</div>
-
 
 <h3>
 🎓 Undergraduate ICT Student at the <a href="https://cmb.ac.lk/" target="_blank">University of Colombo</a>  
